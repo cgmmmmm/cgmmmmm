@@ -7,6 +7,7 @@
 
 ### 👨‍💻 About Me
 
+- 🎓 **Education** 2nd year Diploma in Information Technology student at Tunku Abdul Rahman University of Management and Technology.
 - 🌱 **Currently learning:** Machine Learning, Deep Learning, Electronics
 - ⚡ **Fun fact:** I often go into a deep rabbit hole just to solve a simple problem.
 
