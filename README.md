@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hi 👋, I'm cgmmmmm</h2>
-  <h3>Aspiring polymath engineer with practical skills in Algorithms, Machine Learning & AI, Robotics, and Software Engineering. <br> Driven by curiosity, fueled by interest, and growing through hard work!</h3>
+  <h3>Aspiring Robotics Engineer with practical skills in Algorithms, Machine Learning & AI, Electronics, and Software Engineering. <br> Driven by curiosity, fueled by interest, and growing through hard work!</h3>
 </div>
 
 ---
@@ -29,10 +29,10 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="60" height="60"/></a>
   <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="60" height="60"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/></a>
   <br><br>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="60" height="60"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"/></a>
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/></a>
   <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/></a>
@@ -41,8 +41,7 @@
   <a href="https://www.ros.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ros" width="60" height="60"/></a>
   <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="60" height="60"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/></a>
-  <a href="https://en.wikipedia.org/wiki/Electronic_component" target="_blank"><img src="https://img.icons8.com/fluency/96/processor.png" alt="electronics" width="60" height="60"/></a>
-  <a href="https://en.wikipedia.org/wiki/Electrical_engineering" target="_blank"><img src="https://img.icons8.com/color/96/physics.png" alt="physics" width="60" height="60"/></a>
+  
 </div>
 
 ---
