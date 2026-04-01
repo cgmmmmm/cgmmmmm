@@ -51,6 +51,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/cgmmmmm/cgmmmmm/output/github-snake-dark.svg" alt="cgmmmmm's Contribution Snake" width="100%" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cgmmmmm&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="cgmmmmm's Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cgmmmmm&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="cgmmmmm's Top Languages" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cgmmmmm&theme=tokyonight&hide_border=true" alt="cgmmmmm's Streak Stats" height="165" />
 </div>
