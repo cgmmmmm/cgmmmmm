@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hi 👋, I'm cgmmmmm</h2>
-  <h3>Aspiring Robotics Engineer with practical skills in Algorithms, Machine Learning & AI, Electronics, and Software Engineering. <br> Driven by curiosity, fueled by interest, and growing through hard work!</h3>
+  <h3>Aspiring Robotics Engineer with practical skills in Algorithms, Electronics, and Software Engineering. <br> Driven by curiosity, fueled by interest, and growing through hard work!</h3>
 </div>
 
 ---
