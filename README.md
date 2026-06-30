@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hi 👋, I'm cgmmmmm</h2>
-  <h3>Aspiring Robotics Engineer with practical skills in Algorithms, Electronics, and Software Engineering. <br> Driven by curiosity, fueled by interest, and growing through hard work!</h3>
+  <h3>Aspiring Engineer with practical skills in Algorithms, Electronics, and Software Engineering. <br> Driven by curiosity, fueled by interest, and growing through hard work!</h3>
 </div>
 
 ---
@@ -10,6 +10,7 @@
 - 🎓 **Education** 2nd year Bachelor Degree in Information Technology (Honours) (Software System Development) student at Tunku Abdul Rahman University of Management and Technology.
 - 🌱 **Currently learning:** Embedded Systems, Advanced C++, Advanced Discrete Mathematics (Algorithmic Focus)
 - ⚡ **Fun fact:** I naturally reason from first principles.
+- 🛠️ **Hobby**: Tinkering with Electronics, Weightlifting
 
 ### 🔗 Connect with me
 
