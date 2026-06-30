@@ -9,8 +9,8 @@
 
 - 🎓 **Education** 2nd year Bachelor Degree in Information Technology (Honours) (Software System Development) student at Tunku Abdul Rahman University of Management and Technology.
 - 🌱 **Currently learning:** Embedded Systems, Advanced C++, Advanced Discrete Mathematics (Algorithmic Focus)
-- ⚡ **Fun fact:** I naturally reason from first principles.
 - 🛠️ **Hobby**: Tinkering with Electronics, Weightlifting
+- ⚡ **Fun fact:** I naturally reason from first principles.
 
 ### 🔗 Connect with me
 
