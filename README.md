@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education** 2nd year Diploma in Information Technology student at Tunku Abdul Rahman University of Management and Technology.
+- 🎓 **Education** 2nd year Bachelor Degree in Information Technology (Honours) (Software System Development) student at Tunku Abdul Rahman University of Management and Technology.
 - 🌱 **Currently learning:** Machine Learning, Deep Learning, Electronics, Template Metaprogramming (C++), Advanced C++
 - ⚡ **Fun fact:** I often go into a deep rabbit hole just to solve a simple problem.
 
